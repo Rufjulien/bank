@@ -1,0 +1,19 @@
+{
+  "name": "wa-manager-pro",
+  "version": "0.1.0",
+  "description": "Skeleton for WA-Manager Pro",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"No tests\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^29.0.0",
+    "whatsapp-web.js": "^1.21.1"
+  },
+  "devDependencies": {
+    "electron-builder": "^24.6.0"
+  }
+}
